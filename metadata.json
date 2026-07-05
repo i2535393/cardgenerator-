@@ -1,0 +1,8 @@
+{
+  "name": "Remix: EuroCard Pro",
+  "description": "Create and export professional European administrative cards with real-time previews, drag-and-drop editing, and instant PDF generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
